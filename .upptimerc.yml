@@ -20,7 +20,7 @@ sites:
 status-website:
   cname: uptime.seven-retail.com
   name: "Seven Retail's uptime monitor"
-  theme: ocean
+  theme: dark
   logoUrl: https://raw.githubusercontent.com/seven-retail/uptime-monitor/master/assets/logo.avif
   introTitle: "**Seven Retail**'s uptime monitor"
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/seven-retail/uptime-monitor).
