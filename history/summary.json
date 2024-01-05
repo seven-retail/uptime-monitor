@@ -40,20 +40,18 @@
     "url": "$SITE_URL_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "seven-retail-s-api",
-    "status": "down",
-    "uptime": "6.67%",
-    "uptimeDay": "6.67%",
-    "uptimeWeek": "6.67%",
-    "uptimeMonth": "6.67%",
-    "uptimeYear": "6.67%",
-    "time": 589,
-    "timeDay": 589,
-    "timeWeek": 589,
-    "timeMonth": 589,
-    "timeYear": 589,
-    "dailyMinutesDown": {
-      "2024-01-05": 0
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 715,
+    "timeDay": 715,
+    "timeWeek": 715,
+    "timeMonth": 715,
+    "timeYear": 715,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Seven Retail's Content Management System",
