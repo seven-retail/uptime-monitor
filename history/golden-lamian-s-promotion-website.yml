@@ -1,7 +1,7 @@
-url: https://promotion.goldenlamian.com
+url: $SITE_URL_GL_PROMOTION
 status: up
 code: 404
-responseTime: 824
-lastUpdated: 2024-01-05T07:25:17.728Z
+responseTime: 782
+lastUpdated: 2024-01-05T08:00:15.575Z
 startTime: 2024-01-05T04:34:08.848Z
 generator: Upptime <https://github.com/upptime/upptime>
