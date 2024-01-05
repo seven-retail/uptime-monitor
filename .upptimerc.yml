@@ -12,8 +12,6 @@ sites:
       - 404
 
 status-website:
-  publish: true
-  apiBaseUrl: ${{ secrets.GH_PAT }}
   cname: uptime.seven-retail.com
   name: "Seven Retail's uptime monitor"
   theme: ocean
