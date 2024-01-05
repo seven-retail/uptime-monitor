@@ -12,6 +12,8 @@ sites:
       - 404
 
 status-website:
+  publish: true
+  apiBaseUrl: ${{ secrets.GH_PAT }}
   cname: uptime.seven-retail.com
   logoUrl: https://cms.seven-retail.com/logo.avif
   name: "Seven Retail's uptime monitor"
