@@ -4,19 +4,19 @@
     "url": "https://promotion.goldenlamian.com",
     "icon": "https://icons.duckduckgo.com/ip3/promotion.goldenlamian.com.ico",
     "slug": "golden-lamian-s-promotion-website",
-    "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
-    "time": 890,
-    "timeDay": 890,
-    "timeWeek": 890,
-    "timeMonth": 890,
-    "timeYear": 890,
+    "status": "up",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
+    "time": 940,
+    "timeDay": 940,
+    "timeWeek": 940,
+    "timeMonth": 940,
+    "timeYear": 940,
     "dailyMinutesDown": {
-      "2024-01-05": 133
+      "2024-01-05": 135
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://promotion.goldenhotpotandgrill.com",
     "icon": "https://icons.duckduckgo.com/ip3/promotion.goldenhotpotandgrill.com.ico",
     "slug": "golden-hotpot-and-grill-s-promotion-website",
-    "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
-    "time": 871,
-    "timeDay": 871,
-    "timeWeek": 871,
-    "timeMonth": 871,
-    "timeYear": 871,
+    "status": "up",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
+    "time": 908,
+    "timeDay": 908,
+    "timeWeek": 908,
+    "timeMonth": 908,
+    "timeYear": 908,
     "dailyMinutesDown": {
-      "2024-01-05": 133
+      "2024-01-05": 135
     }
   }
 ]
