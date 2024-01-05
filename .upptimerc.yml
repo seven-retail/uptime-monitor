@@ -4,8 +4,12 @@ repo: uptime-monitor
 sites:
   - name: "Golden Lamian's Promotion Website"
     url: https://promotion.goldenlamian.com
+    expectedStatusCodes:
+      - 404
   - name: "Golden Hotpot & Grill's Promotion Website"
     url: https://promotion.goldenhotpotandgrill.com
+    expectedStatusCodes:
+      - 404
 
 status-website:
   cname: uptime.seven-retail.com
