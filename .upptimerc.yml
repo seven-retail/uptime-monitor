@@ -9,6 +9,7 @@ sites:
 
 status-website:
   cname: uptime.seven-retail.com
+  baseUrl: /uptime-monitor
   logoUrl: https://cms.seven-retail.com/logo.avif
   name: "Seven Retail's uptime monitor"
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
