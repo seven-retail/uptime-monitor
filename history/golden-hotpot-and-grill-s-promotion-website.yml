@@ -1,7 +1,7 @@
-url: https://promotion.goldenhotpotandgrill.com
+url: $SITE_URL_GHG_PROMOTION
 status: up
 code: 404
-responseTime: 807
-lastUpdated: 2024-01-05T07:25:18.779Z
+responseTime: 832
+lastUpdated: 2024-01-05T08:00:14.552Z
 startTime: 2024-01-05T04:34:12.789Z
 generator: Upptime <https://github.com/upptime/upptime>
