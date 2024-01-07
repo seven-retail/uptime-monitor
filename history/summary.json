@@ -22,18 +22,20 @@
     "url": "$SITE_URL_GL_PROMOTION",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "golden-lamian-s-promotion-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 957,
-    "timeDay": 1032,
+    "timeDay": 1076,
     "timeWeek": 957,
     "timeMonth": 957,
     "timeYear": 957,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-07": 0
+    }
   },
   {
     "name": "Seven Retail's API",
