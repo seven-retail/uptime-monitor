@@ -22,19 +22,19 @@
     "url": "$SITE_URL_GL_PROMOTION",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "golden-lamian-s-promotion-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 983,
-    "timeDay": 1325,
-    "timeWeek": 983,
-    "timeMonth": 983,
-    "timeYear": 983,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
+    "time": 977,
+    "timeDay": 1088,
+    "timeWeek": 977,
+    "timeMonth": 977,
+    "timeYear": 977,
     "dailyMinutesDown": {
-      "2024-01-09": 0
+      "2024-01-09": 16
     }
   },
   {
