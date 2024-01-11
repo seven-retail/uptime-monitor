@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 991,
-    "timeDay": 1042,
-    "timeWeek": 991,
-    "timeMonth": 991,
-    "timeYear": 991,
+    "time": 995,
+    "timeDay": 1068,
+    "timeWeek": 995,
+    "timeMonth": 995,
+    "timeYear": 995,
     "dailyMinutesDown": {}
   },
   {
@@ -23,20 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "golden-lamian-s-promotion-website",
     "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "97.39%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.48%",
-    "time": 979,
-    "timeDay": 952,
-    "timeWeek": 979,
-    "timeMonth": 979,
-    "timeYear": 979,
-    "dailyMinutesDown": {
-      "2024-01-10": 22,
-      "2024-01-09": 16
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 980,
+    "timeDay": 990,
+    "timeWeek": 980,
+    "timeMonth": 980,
+    "timeYear": 980,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Seven Retail's API",
@@ -49,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 753,
-    "timeDay": 782,
-    "timeWeek": 753,
-    "timeMonth": 753,
-    "timeYear": 753,
+    "time": 755,
+    "timeDay": 771,
+    "timeWeek": 755,
+    "timeMonth": 755,
+    "timeYear": 755,
     "dailyMinutesDown": {}
   },
   {
@@ -67,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 726,
-    "timeDay": 796,
-    "timeWeek": 726,
-    "timeMonth": 726,
-    "timeYear": 726,
+    "time": 727,
+    "timeDay": 738,
+    "timeWeek": 727,
+    "timeMonth": 727,
+    "timeYear": 727,
     "dailyMinutesDown": {}
   }
 ]
