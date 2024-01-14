@@ -4,19 +4,19 @@
     "url": "$SITE_URL_GHG_PROMOTION",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "golden-hotpot-and-grill-s-promotion-website",
-    "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1387,
     "timeDay": 5314,
     "timeWeek": 2121,
     "timeMonth": 1387,
     "timeYear": 1387,
     "dailyMinutesDown": {
-      "2024-01-14": 14
+      "2024-01-14": 0
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$SITE_URL_GL_PROMOTION",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "golden-lamian-s-promotion-website",
-    "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "97.33%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 1065,
     "timeDay": 1856,
     "timeWeek": 1206,
     "timeMonth": 1065,
     "timeYear": 1065,
     "dailyMinutesDown": {
-      "2024-01-14": 39
+      "2024-01-14": 24
     }
   },
   {
