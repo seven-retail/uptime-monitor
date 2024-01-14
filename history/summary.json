@@ -4,9 +4,9 @@
     "url": "$SITE_URL_GHG_PROMOTION",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "golden-hotpot-and-grill-s-promotion-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,14 +15,16 @@
     "timeWeek": 1023,
     "timeMonth": 1004,
     "timeYear": 1004,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-14": 0
+    }
   },
   {
     "name": "Golden Lamian's Promotion Website",
     "url": "$SITE_URL_GL_PROMOTION",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "golden-lamian-s-promotion-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
     "uptimeDay": "98.35%",
     "uptimeWeek": "99.76%",
