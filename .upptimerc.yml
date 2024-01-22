@@ -8,8 +8,6 @@ sites:
       - 404
   - name: "Golden Lamian's Promotion Website"
     url: $SITE_URL_GL_PROMOTION
-    expectedStatusCodes:
-      - 404
   - name: "Seven Retail's API"
     url: $SITE_URL_API
   - name: "Seven Retail's Content Management System"
