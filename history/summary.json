@@ -4,9 +4,9 @@
     "url": "$SITE_URL_GHG_PROMOTION",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "golden-hotpot-and-grill-s-promotion-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1062,
     "timeMonth": 1230,
     "timeYear": 1230,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-29": 0
+    }
   },
   {
     "name": "Golden Lamian's Promotion Website",
@@ -23,20 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "golden-lamian-s-promotion-website",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1056,
     "timeDay": 770,
-    "timeWeek": 942,
+    "timeWeek": 913,
     "timeMonth": 1056,
     "timeYear": 1056,
-    "dailyMinutesDown": {
-      "2024-01-21": 26,
-      "2024-01-20": 20
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Seven Retail's API",
@@ -51,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 746,
     "timeDay": 579,
-    "timeWeek": 721,
+    "timeWeek": 716,
     "timeMonth": 746,
     "timeYear": 746,
     "dailyMinutesDown": {}
@@ -69,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 728,
     "timeDay": 641,
-    "timeWeek": 714,
+    "timeWeek": 709,
     "timeMonth": 728,
     "timeYear": 728,
     "dailyMinutesDown": {}
