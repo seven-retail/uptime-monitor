@@ -4,19 +4,19 @@
     "url": "$SITE_URL_GHG_PROMOTION",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "golden-hotpot-and-grill-s-promotion-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1137,
-    "timeDay": 811,
-    "timeWeek": 946,
-    "timeMonth": 984,
-    "timeYear": 1137,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "95.51%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.90%",
+    "time": 1136,
+    "timeDay": 944,
+    "timeWeek": 963,
+    "timeMonth": 987,
+    "timeYear": 1136,
     "dailyMinutesDown": {
-      "2024-02-17": 0
+      "2024-02-17": 65
     }
   },
   {
