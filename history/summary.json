@@ -6,15 +6,15 @@
     "slug": "golden-hotpot-and-grill-s-promotion-website",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "95.51%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.36%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.90%",
-    "time": 1131,
-    "timeDay": 948,
-    "timeWeek": 963,
+    "time": 1130,
+    "timeDay": 1022,
+    "timeWeek": 958,
     "timeMonth": 981,
-    "timeYear": 1131,
+    "timeYear": 1130,
     "dailyMinutesDown": {
       "2024-02-17": 65
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1026,
-    "timeDay": 821,
-    "timeWeek": 934,
-    "timeMonth": 962,
-    "timeYear": 1026,
+    "time": 1027,
+    "timeDay": 1068,
+    "timeWeek": 937,
+    "timeMonth": 963,
+    "timeYear": 1027,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 738,
-    "timeDay": 660,
-    "timeWeek": 712,
-    "timeMonth": 730,
-    "timeYear": 738,
+    "time": 739,
+    "timeDay": 749,
+    "timeWeek": 709,
+    "timeMonth": 728,
+    "timeYear": 739,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 727,
-    "timeDay": 610,
-    "timeWeek": 708,
-    "timeMonth": 725,
-    "timeYear": 727,
+    "time": 729,
+    "timeDay": 798,
+    "timeWeek": 712,
+    "timeMonth": 726,
+    "timeYear": 729,
     "dailyMinutesDown": {}
   }
 ]
