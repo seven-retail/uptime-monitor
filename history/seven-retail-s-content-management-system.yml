@@ -1,7 +1,7 @@
 url: $SITE_URL_CMS
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-02-28T01:30:17.707Z
+status: up
+code: 401
+responseTime: 581
+lastUpdated: 2024-02-28T01:49:31.983Z
 startTime: 2024-01-05T08:00:19.906Z
 generator: Upptime <https://github.com/upptime/upptime>
