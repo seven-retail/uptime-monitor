@@ -4,18 +4,19 @@
     "url": "$SITE_URL_GHG_PROMOTION",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "golden-hotpot-and-grill-s-promotion-website",
-    "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "99.92%",
+    "uptimeYear": "99.91%",
     "time": 1114,
     "timeDay": 1061,
     "timeWeek": 1024,
     "timeMonth": 961,
     "timeYear": 1114,
     "dailyMinutesDown": {
+      "2024-02-28": 2,
       "2024-02-17": 65
     }
   },
@@ -24,10 +25,10 @@
     "url": "$SITE_URL_GL_PROMOTION",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "golden-lamian-s-promotion-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1020,
@@ -35,17 +36,19 @@
     "timeWeek": 974,
     "timeMonth": 956,
     "timeYear": 1020,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-28": 1
+    }
   },
   {
     "name": "Seven Retail's API",
     "url": "$SITE_URL_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "seven-retail-s-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 737,
@@ -53,14 +56,16 @@
     "timeWeek": 736,
     "timeMonth": 724,
     "timeYear": 737,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-28": 1
+    }
   },
   {
     "name": "Seven Retail's Content Management System",
     "url": "$SITE_URL_CMS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "seven-retail-s-content-management-system",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -71,6 +76,8 @@
     "timeWeek": 728,
     "timeMonth": 722,
     "timeYear": 727,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-28": 0
+    }
   }
 ]
