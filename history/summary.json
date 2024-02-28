@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "golden-hotpot-and-grill-s-promotion-website",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.89%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.89%",
     "time": 1114,
     "timeDay": 1061,
     "timeWeek": 1024,
     "timeMonth": 961,
     "timeYear": 1114,
     "dailyMinutesDown": {
-      "2024-02-28": 2,
+      "2024-02-28": 21,
       "2024-02-17": 65
     }
   },
@@ -26,18 +26,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "golden-lamian-s-promotion-website",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
     "time": 1020,
     "timeDay": 1021,
     "timeWeek": 974,
     "timeMonth": 956,
     "timeYear": 1020,
     "dailyMinutesDown": {
-      "2024-02-28": 1
+      "2024-02-28": 20
     }
   },
   {
@@ -45,19 +45,19 @@
     "url": "$SITE_URL_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "seven-retail-s-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 737,
-    "timeDay": 778,
-    "timeWeek": 736,
-    "timeMonth": 724,
-    "timeYear": 737,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
+    "time": 751,
+    "timeDay": 1182,
+    "timeWeek": 843,
+    "timeMonth": 751,
+    "timeYear": 751,
     "dailyMinutesDown": {
-      "2024-02-28": 1
+      "2024-02-28": 20
     }
   },
   {
@@ -65,19 +65,19 @@
     "url": "$SITE_URL_CMS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "seven-retail-s-content-management-system",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 727,
-    "timeDay": 841,
-    "timeWeek": 728,
-    "timeMonth": 722,
-    "timeYear": 727,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 724,
+    "timeDay": 711,
+    "timeWeek": 710,
+    "timeMonth": 718,
+    "timeYear": 724,
     "dailyMinutesDown": {
-      "2024-02-28": 0
+      "2024-02-28": 19
     }
   }
 ]
