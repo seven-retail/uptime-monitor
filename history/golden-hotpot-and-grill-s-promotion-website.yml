@@ -1,7 +1,7 @@
 url: $SITE_URL_GHG_PROMOTION
-status: up
-code: 404
-responseTime: 1043
-lastUpdated: 2024-03-19T23:04:21.282Z
+status: down
+code: 200
+responseTime: 996
+lastUpdated: 2024-03-20T07:31:01.802Z
 startTime: 2024-01-05T04:34:12.789Z
 generator: Upptime <https://github.com/upptime/upptime>
