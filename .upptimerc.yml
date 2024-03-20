@@ -4,8 +4,6 @@ repo: uptime-monitor
 sites:
   - name: "Golden Hotpot & Grill's Promotion Website"
     url: $SITE_URL_GHG_PROMOTION
-    expectedStatusCodes:
-      - 404
   - name: "Golden Lamian's Promotion Website"
     url: $SITE_URL_GL_PROMOTION
   - name: "Seven Retail's API"
